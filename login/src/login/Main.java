@@ -131,6 +131,8 @@ public class Main {
 			 for(User temp :list) {
 				 System.out.println(temp.id+"   ");
 				 System.out.println(temp.pw);
+				 System.out.println("테스트");
+				 System.out.println("추가");
 			 }
 		 }
 		
